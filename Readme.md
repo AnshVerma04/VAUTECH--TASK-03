@@ -47,11 +47,11 @@ The goal is to prepare a clean, structured, and reliable dataset that can be use
 
 ![Screenshot](Images/CheckMissingValues.png)
 
-## Step 3: Data type
+## Step 3: regionnorthwest
 
 ![Screenshot](Images/regionnorthwest.png)
 
-## Step 4: Unique values in categorical columns
+## Step 4: Final Check
 
 ![Screenshot](Images/FinalCheck.png)
 
