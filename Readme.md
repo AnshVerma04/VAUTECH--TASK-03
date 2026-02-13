@@ -47,7 +47,7 @@ The goal is to prepare a clean, structured, and reliable dataset that can be use
 
 ![Screenshot](Images/CheckMissingValues.png)
 
-## Step 3: regionnorthwest
+## Step 3: Region_northwest
 
 ![Screenshot](Images/regionnorthwest.png)
 
